@@ -5,7 +5,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Unlicense](https://img.shields.io/badge/License-Unlicense-lightgrey?style=for-the-badge)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://jacopo-nesti.github.io/09-guida-ai-comandi-del-terminale/)
 
 ## Descrizione del progetto
 
@@ -79,7 +79,7 @@ Specifica dell’esercizio su cui si basa il progetto.
 
 ## GitHub Pages
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://jacopo-nesti.github.io/09-guida-ai-comandi-del-terminale/)
+![GitHub Pages](https://jacopo-nesti.github.io/09-guida-ai-comandi-del-terminale/)
 
 ---
 
