@@ -54,9 +54,24 @@ Leggi la [guida per l'installazione](/docs/INSTALLAZIONE.md) per i dettagli.
 
 ---
 
-## Documenti
+## Documentazione (`docs/`)
 
-Nel
+In questa cartella sono presenti i file di documentazione del progetto, utili per comprendere il funzionamento del sito e le sue componenti principali.
+
+### File disponibili
+
+- [API](/docs/API.md)
+Documentazione delle API e delle funzioni principali utilizzate nel progetto.
+
+- [FAQ](/docs/FAQ.md)  
+Domande frequenti con relative risposte per la risoluzione dei problemi più comuni.
+
+
+- [STRUTTURA](/docs/STRUTTURA.md) 
+Descrizione della struttura del progetto e organizzazione dei file.
+
+- [testo_esercizio](/docs/testo_esercizio.md) 
+Specifica dell’esercizio su cui si basa il progetto.
 
 ---
 

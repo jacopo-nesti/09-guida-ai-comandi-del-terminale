@@ -1,12 +1,19 @@
 # Struttura del progetto
 
 ```text
-principale/
+09-guida-ai-comandi-del-terminale/
 ├── assets/
 │ └── images/
 │       └── fism-formazione.png
+│
+├── screenshots/
+│ ├── comandi-json.png
+│ ├── errori-comuni.png
+│ └── index.png
+│
 ├── docs/
 │ ├── API.md
+│ ├── FAQ.md
 │ ├── INSTALLAZIONE.md
 │ ├── STRUTTURA.md
 │ └── testo_esercizio.md
