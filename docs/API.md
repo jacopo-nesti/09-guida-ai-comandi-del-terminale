@@ -12,6 +12,10 @@ Il file viene letto tramite JavaScript usando la Fetch API:
 fetch("data.json")
 ```
 
+---
+
+## Contenuto JSON
+
 Il file `data.json` contiene oggetti con questi campi principali:
 
 ```text

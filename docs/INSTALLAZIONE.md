@@ -38,4 +38,38 @@ http://localhost:8000
 
 ---
 
-In alternativa puoi usare Live Server di Visual Studio Code.
+
+## Eventuali problemi con `fetch("data.json")`
+
+Durante il caricamento dei dati tramite `fetch("data.json")` possono verificarsi dei problemi.  
+Di seguito sono riportate le cause principali e le relative soluzioni.
+
+---
+
+### 1. File `data.json` non trovato
+
+Se il file non si trova nella posizione corretta, il browser non riesce a caricarlo.
+
+**Soluzione:**
+- Verificare che `data.json` sia nella stessa cartella del file HTML
+- Controllare che il nome del file sia scritto correttamente
+
+---
+
+### 2. Apertura del file HTML direttamente (`file://`)
+
+Se il progetto viene aperto con un doppio click sul file HTML, `fetch` potrebbe non funzionare.
+
+**Soluzione:**
+Utilizzare un server locale, ad esempio:
+- VS Code con estensione **Live Server**
+- `python -m http.server`
+
+---
+
+### 3. JSON non valido
+
+Se il file `data.json` contiene errori di sintassi, il caricamento fallisce.
+
+**Soluzione:**
+- Controllare parentesi, virgole e struttura del JSON

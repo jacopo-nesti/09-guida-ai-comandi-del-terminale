@@ -34,13 +34,29 @@
 
 ## Screenshots
 
+### Index
+
 ![Index](screenshots/index.png)
+
+### Comandi JSON
+
 ![Comandi JSON](screenshots/comandi-json.png)
+
+### Errori comuni
+
 ![Errori comuni](screenshots/errori-comuni.png)
+
+---
 
 ## Installazione e avvio
 
 Leggi la [guida per l'installazione](/docs/INSTALLAZIONE.md) per i dettagli.
+
+---
+
+## Documenti
+
+Nel
 
 ---
 
