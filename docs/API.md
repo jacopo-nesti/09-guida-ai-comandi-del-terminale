@@ -18,14 +18,14 @@ fetch("data.json")
 
 Il file `data.json` contiene oggetti con questi campi principali:
 
-{
-  "id": 1,
-  "title": "Titolo esempio",
-  "subtitle": "Sottotitolo esempio",
-  "category": "Categoria",
-  "description": "Descrizione del contenuto",
-  "fields": []
-}
+{  
+  "id": 1,  
+  "title": "Titolo esempio",  
+  "subtitle": "Sottotitolo esempio",  
+  "category": "Categoria",  
+  "description": "Descrizione del contenuto",  
+  "fields": []  
+  }
 
 ### Descrizione dei campi
 
