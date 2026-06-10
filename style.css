@@ -56,7 +56,7 @@ body {
   background: whitesmoke;
   padding: 5px;
   border-radius: 15px;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
 }
 
 .nav-list a {
@@ -82,7 +82,7 @@ section {
   margin-bottom: 30px;
   padding: 40px;
   border-radius: 16px;
-  box-shadow: 0 3px 12px rgba(0,0,0,0.06);
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.06);
 }
 
 section h2 {
@@ -91,7 +91,9 @@ section h2 {
 }
 
 /* HERO */
-.hero, .approfondimenti, .tips {
+.hero,
+.approfondimenti,
+.tips {
   text-align: center;
 }
 
@@ -108,43 +110,43 @@ section h2 {
 /* SEZIONI */
 .navigation,
 .creation {
-    margin-bottom: 60px;
+  margin-bottom: 60px;
 }
 
 .navigation h2,
 .creation h2 {
-    text-align: center;
-    margin-bottom: 30px;
-    color: black;
+  text-align: center;
+  margin-bottom: 30px;
+  color: black;
 }
 
 /* CARD */
 .navigation-card {
-    background-color: white;
-    border-radius: 12px;
-    padding: 25px;
-    margin-bottom: 25px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-    transition: transform 0.3s ease;
+  background-color: white;
+  border-radius: 12px;
+  padding: 25px;
+  margin-bottom: 25px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
 }
 
 .navigation-card h3 {
-    color: black;
-    margin-bottom: 15px;
+  color: black;
+  margin-bottom: 15px;
 }
 
 .navigation-card p {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 /* COMANDI TERMINALE */
 .terminal-line {
-    background-color: black;
-    color: white;
-    padding: 12px;
-    border-radius: 6px;
-    overflow-x: auto;
-    margin: 10px 0;
+  background-color: black;
+  color: white;
+  padding: 12px;
+  border-radius: 6px;
+  overflow-x: auto;
+  margin: 10px 0;
 }
 
 /* FOOTER */
