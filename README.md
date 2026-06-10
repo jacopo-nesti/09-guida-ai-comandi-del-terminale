@@ -75,6 +75,10 @@ Specifica dell’esercizio su cui si basa il progetto.
 
 ---
 
+## GitHub Pages
+
+[Guida ai comandi del terminale](https://jacopo-nesti.github.io/09-guida-ai-comandi-del-terminale/)
+
 ## Limitazioni note
 
 - Non è stato implementato il backend
