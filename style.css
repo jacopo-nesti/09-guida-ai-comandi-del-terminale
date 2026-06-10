@@ -1,0 +1,165 @@
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  min-height: 100%;
+  scroll-behavior: smooth;
+  scroll-padding-top: 100px;
+}
+
+/* BODY */
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  background-color: #f4f7fa;
+}
+
+/* HEADER */
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #80d0e9;
+  color: black;
+  padding: 5px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* NAVBAR */
+.navbar {
+  position: fixed;
+  display: block;
+  top: 99px;
+  left: 20px;
+  right: 20px;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  gap: 40px;
+  background: whitesmoke;
+  padding: 5px;
+  border-radius: 15px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+}
+
+.nav-list a {
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+}
+
+.nav-list a:hover {
+  color: blue;
+}
+
+/* MAIN */
+.main {
+  max-width: 1200px;
+  margin: 140px auto 100px auto;
+  padding: 30px 20px;
+}
+
+/* SEZIONI */
+section {
+  background: white;
+  margin-bottom: 30px;
+  padding: 40px;
+  border-radius: 16px;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.06);
+}
+
+section h2 {
+  margin-bottom: 15px;
+  color: black;
+}
+
+/* HERO */
+.hero, .approfondimenti, .tips {
+  text-align: center;
+}
+
+.hero a {
+  color: blue;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.hero a:hover {
+  text-decoration: underline;
+}
+
+/* SEZIONI */
+.navigation,
+.creation {
+    margin-bottom: 60px;
+}
+
+.navigation h2,
+.creation h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #084298;
+}
+
+/* CARD */
+.navigation-card {
+    background-color: white;
+    border-radius: 12px;
+    padding: 25px;
+    margin-bottom: 25px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
+
+.navigation-card h3 {
+    color: #0d6efd;
+    margin-bottom: 15px;
+}
+
+.navigation-card p {
+    margin-bottom: 10px;
+}
+
+/* COMANDI TERMINALE */
+.terminal-line {
+    background-color: #1e1e1e;
+    color: #00ff66;
+    padding: 12px;
+    border-radius: 6px;
+    font-family: Consolas, monospace;
+    overflow-x: auto;
+    margin: 10px 0;
+}
+
+/* FOOTER */
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: #1e293b;
+  color: white;
+  text-align: center;
+  padding: 0px;
+}
+
+.footer a {
+  color: #60a5fa;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
